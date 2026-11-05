@@ -11,6 +11,8 @@ public class CommitCafe {
         
         // STUDENT_TODO_2B: Add a second brew-related improvement
 
+        System.out.println("CoffeeBot brewed " + drink + ". Espresso yourself, then push to main.");
+        System.out.println("[BOT CHECK] drink length = " + drink.length());
     }
 
     public static void printSummary() {
